@@ -1,0 +1,51 @@
+body {background-color: plum;
+}
+
+.p1 {font-size: 250%;
+    text-align: center;
+    background-color: pink;
+    border-width: 6px;
+    border-style: groove;
+    border-color: black;
+    padding-top: 10%;
+
+  
+}
+.p2 {font-size: 150%;
+    text-align: center;
+     background-color: rgb(240, 60, 180);
+     border-color: border: ;
+     border-style: groove;
+     border-color: blue;
+     padding-top: 3%;
+     border-width: 6px;
+     margin-left: 12%;
+     margin-right: 56%;
+
+
+
+
+
+    
+
+}
+h3 {font-size: 125%;
+    background-color: rgb(218, 81, 104);
+    border-color: blueviolet;
+    border-style:groove;
+    border-width: 6px;
+    padding-top:4%;
+    background-color: aquamarine;
+    border-color: black;
+    margin-left: 56%;
+    margin-right: 12%;
+
+}
+h4 {font-size: 125%;
+    background-color: rgb(214, 81, 103);
+    border-width: 6px;
+    border-color: brown;
+    margin-left: 12%;
+    margin-right: 56%;
+
+}
